@@ -14,7 +14,11 @@ We have 3 methods that is:
 
 To test out this contract, we have deployed a sample on `Sepolia` Testnet.
 
+N.B: - Don't forget to approve token usage of the token you want to transfer to the contract.
+
 The contract address is `0x05308F66FE9D42938E0cf7B61a53633C3ba3357aBEcb1Da14E922A5CAB5fdB03`.
+
+To get some tokens to transfer ie ETH, STRK, DAI, USDT, check out [Tokenkit](https://tokenkit-gamma.vercel.app/view-tokens). Connect your wallet on sepolia network to see Tokens on Sepolia
 
 To test out the contract: 
 1. Open Contract in [voyager](https://sepolia.voyager.online/contract/0x05308f66fe9d42938e0cf7b61a53633c3ba3357abecb1da14e922a5cab5fdb03)
